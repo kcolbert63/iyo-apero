@@ -50,7 +50,7 @@ enableEmoji = true
   # alternatively, use a built-in font-family
   # serif options: Fraunces / EB Garamond / Bitter
   # sans-serif options: Commissioner / Alegreya Sans / Metropolis
-  customtextFontFamily = "Commissioner"
+  customtextFontFamily = "Metropolis"
   customheadingFontFamily = "Fraunces"
   
   # use a built-in color theme
